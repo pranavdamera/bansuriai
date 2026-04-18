@@ -1,0 +1,13 @@
+file_path,label,category,duration_sec,sample_rate,channels,take,flute_key,recording_date,notes
+raw/isolated/Sa/Sa_take01.wav,Sa,isolated,2.1,44100,1,1,E,2025-06-15,clean sustained Sa
+raw/isolated/Sa/Sa_take02.wav,Sa,isolated,1.8,44100,1,2,E,2025-06-15,slightly breathy
+raw/isolated/Sa/Sa_take03.wav,Sa,isolated,2.3,44100,1,3,E,2025-06-15,strong attack
+raw/isolated/Re/Re_take01.wav,Re,isolated,2.0,44100,1,1,E,2025-06-15,clean sustained Re
+raw/isolated/Re/Re_take02.wav,Re,isolated,1.9,44100,1,2,E,2025-06-15,soft dynamics
+raw/isolated/Ga/Ga_take01.wav,Ga,isolated,2.2,44100,1,1,E,2025-06-16,clean sustained Ga
+raw/isolated/Ma/Ma_take01.wav,Ma,isolated,2.0,44100,1,1,E,2025-06-16,clean sustained Ma
+raw/isolated/Pa/Pa_take01.wav,Pa,isolated,1.7,44100,1,1,E,2025-06-16,clean sustained Pa
+raw/isolated/Dha/Dha_take01.wav,Dha,isolated,1.9,44100,1,1,E,2025-06-16,clean sustained Dha
+raw/isolated/Ni/Ni_take01.wav,Ni,isolated,2.1,44100,1,1,E,2025-06-16,clean sustained Ni
+raw/phrases/aaroha_01.wav,Sa-Re-Ga-Ma-Pa,phrase,5.2,44100,1,1,E,2025-06-17,ascending scale first half
+raw/phrases/avroha_01.wav,Pa-Ma-Ga-Re-Sa,phrase,5.0,44100,1,1,E,2025-06-17,descending scale first half
