@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
+*.pt
+!backend/saved_models/.gitkeep
+
+# Node
+node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Project temp
+backend/temp_uploads/
+*.wav
+!sample_audio/.gitkeep
+
+# Processed features
+dataset/processed/*.npy
+dataset/processed/*.pt
+
+# Training logs (regenerated each run)
+training/logs/*.csv
